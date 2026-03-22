@@ -4,9 +4,9 @@
 
 This repo no longer runs as an OpenClaw gateway stack, only the skill library remains integrated. The live system is a host-side Node observer with a Docker sandbox for LLM-controlled tools, plus Ollama for model execution.
 
-Special note on security, the environment described is inherently secure, the interface is not currently suitable for web facing.
+Special note on security, the environment described is inherently secure, however, the interface is not currently suitable for open web facing.
 
-The accuracy on the voice security is dubious. There is no spoofing protection on email trust. Use these features carefully, you have been warned.
+The accuracy on the voice security is dubious. There is no spoofing protection on email trust. Use these features carefully, run this on a local envirnonment, you have been warned.
 
 Trust settings are under the Nova tab, I do not currently have a walk through for the interface, my apologies.
 
